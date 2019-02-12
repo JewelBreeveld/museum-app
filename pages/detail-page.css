@@ -15,11 +15,6 @@ main {
     padding: 2rem 0;
 }
 
-#contentText {
-    margin: 125px 250px 25px 200px;
-    text-align: left;
-}
-
 h1 {
     margin: 5rem 1rem;
 }
@@ -71,9 +66,4 @@ textarea {
     max-height: 20rem;
     margin: 3rem;
     border: dotted yellow;
-    float: left
-}
-
-#comments {
-margin-top: 250px
 }
