@@ -1,5 +1,5 @@
 function submitComment () {
-    //stopt refreshen van de page
+    //stops the page from refreshing in order to see possible errors
     event.preventDefault()
     // Gather data
     const inputField = document.getElementById('name')
